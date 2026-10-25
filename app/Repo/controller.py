@@ -1,5 +1,5 @@
 from model import LivrariaModel
-from view import LivrariaView
+from app.Presentation.view import LivrariaView
 
 
 class LivrariaController:
